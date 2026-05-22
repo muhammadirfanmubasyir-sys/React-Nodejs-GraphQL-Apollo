@@ -93,12 +93,7 @@ Use the **Create New User** form to add a new user. You'll need to provide a `na
 - **Backend**: Node.js, Apollo Server, GraphQL
 - **Database**: In-memory (No database used in this tutorial)
 
-## YouTube Channel
-
-If you enjoyed this tutorial, make sure to subscribe to my YouTube channel for more tech tutorials and tips:
-
-[**@pedrotechnologies**](https://www.youtube.com/@pedrotechnologies)
-
+ 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
